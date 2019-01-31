@@ -35,3 +35,5 @@ bld/
 [Ll]og/
 .suo
 .user
+Project1/Source.cpp
+sampleTweets.csv
